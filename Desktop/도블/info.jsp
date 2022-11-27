@@ -7,12 +7,13 @@
 <title>�������б� ���Ƹ� ��õ ���ø����̼�</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" 
 rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-<link rel="stylesheet" href="doble.css"> 
+<link rel="stylesheet" href="main.css"> 
 </head>
 <body>
 <div>
 <section id = "main" class="mx-auto mt-5 pt-5 px-5 py-5">
-<h3>�������б� ���Ƹ� ��õ ��</h3>
+<h3>다가오는 새 학기!<br>나에게 맞는 동아리는 무엇일까요?
+  동아리 테스트하러 가볼까요?</h3>
 <div class="col-6 mx-auto">
     <img src="04.png" class="img-fluid pt-3">
   </div>
